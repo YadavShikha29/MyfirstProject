@@ -1,2 +1,3 @@
 my first line in second file
-my second line in second file
+my second line in second file.
+add another marketing message section.
