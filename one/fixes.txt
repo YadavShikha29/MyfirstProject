@@ -1,1 +1,4 @@
 i am a file used for fixing bugs
+one more bug detected.
+third bug fixed.
+fourth bug is fixed.
